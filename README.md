@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readyplayerfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="readyplayerfurkan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=readyplayerfurkan" alt="readyplayerfurkan" /></a> </p>
-
 - 🌱 I’m currently learning **C# and ASP.NET**
 
 - 📝 I regularly write articles on [medium.com/readyplayerfurkan](medium.com/readyplayerfurkan)
