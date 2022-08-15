@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Yılmaz</h1>
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Web Developer from Turkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readyplayerfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="readyplayerfurkan" /> </p>
