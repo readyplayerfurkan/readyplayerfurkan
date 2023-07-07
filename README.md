@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [medium.com/readyplayerfurkan](medium.com/readyplayerfurkan)
 
-- 📫 How to reach me **furkanyilmaz870@gmail.com**
+- 📫 How to reach me **readyplayerfurkan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
