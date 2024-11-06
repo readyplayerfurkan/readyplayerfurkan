@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Unity Developer from Türkiye.</h3>
+<h3 align="center">A passionate .NET Developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readyplayerfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="readyplayerfurkan" /> </p>
 
-- 🌱 I’m currently working on **C# and Unity**
+- 🌱 I’m currently working on **C# and .NET**
 
 - 📝 I regularly write articles on [medium.com/readyplayerfurkan](medium.com/readyplayerfurkan)
 
