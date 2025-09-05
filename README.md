@@ -1,13 +1,13 @@
 <h1 align="center">Hello there 👋, I'm Furkan</h1>
-<h3 align="center">A passionate .NET Developer from Türkiye.</h3>
+<h3 align="center">A Full Stack Developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readyplayerfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="readyplayerfurkan" /> </p>
 
-- 🌱 I’m currently working on **C# and .NET**
+- 🌱 I’m currently working on **Next.js & Node.js**
 
 - 📝 I regularly write articles on [medium.com/readyplayerfurkan](medium.com/readyplayerfurkan)
 
-- 📫 How to reach me **readyplayerfurkan@gmail.com**
+- 📫 How to reach me **furkanyilmaz870@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
