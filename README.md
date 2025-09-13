@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readyplayerfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="readyplayerfurkan" /> </p>
 
-- 🌱 I’m currently working on **Next.js & Node.js**
+- 🌱 I’m currently working on **Next.js & .NET Core**
 
 - 📝 I regularly write articles on [medium.com/readyplayerfurkan](medium.com/readyplayerfurkan)
 
